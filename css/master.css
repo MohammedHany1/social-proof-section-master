@@ -153,13 +153,19 @@ span{
         font-size: 50px;
     }
 
+    #rate-1 .split{
+        display: inline-block;
+        margin-left: -25px;
+    }
+
     .split{
         display: inline-block;
-        margin-right: 20px;
+        margin-right: 18px;
     }
 
     #rate-1{
         grid-area: 3 / 6 / 4 / 11;
+        text-align: left;
     }
 
     #rate-2{
